@@ -1,2 +1,1 @@
-# kern
-Kern the color scheme from Tommorow.
+# Kern the color scheme from Tommorow.
